@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appQt_ModelView_FILE /home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/appQt_ModelView)
+set(__QT_DEPLOY_TARGET_appQt_ModelView_TYPE EXECUTABLE)

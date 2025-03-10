@@ -1,0 +1,63 @@
+{
+    "classes": [
+        {
+            "className": "Handler",
+            "lineNumber": 6,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "button",
+                    "notify": "buttonChanged",
+                    "read": "button",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setButton"
+                }
+            ],
+            "qualifiedClassName": "Handler",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "handler",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "buttonChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newButton",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "setbutton",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "handler.h",
+    "outputRevision": 68
+}

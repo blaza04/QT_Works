@@ -1,0 +1,5 @@
+--resource
+/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_menu_application.qrc
+--resource
+/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_menu_application_raw_qml_0.qrc
+/qt/qml/Qt_menu_application/Main.qml

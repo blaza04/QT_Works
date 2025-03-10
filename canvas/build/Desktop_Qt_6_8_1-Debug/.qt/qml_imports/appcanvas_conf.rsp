@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/canvas
+-cmake-output
+-output-file
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appcanvas_conf.cmake
+-importPath
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/canvas
+-importPath
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_canvas.qrc
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appcanvas_raw_qml_0.qrc

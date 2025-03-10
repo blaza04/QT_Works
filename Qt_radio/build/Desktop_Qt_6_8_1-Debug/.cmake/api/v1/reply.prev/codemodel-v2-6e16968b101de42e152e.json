@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6803cf0e52fce5c00950.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt_radio",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-9488f851b210cc4d26b5.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3ddf6efb513f2cbf376e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-940282bc2b5f3e9c062b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e3473cc26946296643d6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-39f8afb8e21b56ace4ae.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio-Debug-ae8b526280e81ec7f350.json",
+					"name" : "appQt_radio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_autogen-Debug-a4ce49d51da17533170b.json",
+					"name" : "appQt_radio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_autogen_timestamp_deps-Debug-c95887d4ff5dda849b58.json",
+					"name" : "appQt_radio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_qmlimportscan-Debug-742204dc8703bdbcaea9.json",
+					"name" : "appQt_radio_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_qmllint-Debug-7b127a84faa5401be235.json",
+					"name" : "appQt_radio_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_qmllint_json-Debug-32acba9d5ed72d4f3fd3.json",
+					"name" : "appQt_radio_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_qmllint_module-Debug-f39778c0cc2193a406d9.json",
+					"name" : "appQt_radio_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_qmltyperegistration-Debug-6d5355f67cf50b2394af.json",
+					"name" : "appQt_radio_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQt_radio_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQt_radio_tooling-Debug-9812bd5b63851f4e590e.json",
+					"name" : "appQt_radio_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appQt_radio_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appQt_radio_aotstats_target-Debug-2855b71c37f45cda19ad.json",
+					"name" : "module_appQt_radio_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/adin.n@acsiatech.com/QTWorks/Qt_radio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

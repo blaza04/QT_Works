@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/first/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/first/Main.qml</file>
+    <file alias="Sample.qml">/home/adin.n@acsiatech.com/QTWorks/first/Sample.qml</file>
+    <file alias="Listview.qml">/home/adin.n@acsiatech.com/QTWorks/first/Listview.qml</file>
+    <file alias="Button1.qml">/home/adin.n@acsiatech.com/QTWorks/first/Button1.qml</file>
+    <file alias="States.qml">/home/adin.n@acsiatech.com/QTWorks/first/States.qml</file>
+    <file alias="Animation.qml">/home/adin.n@acsiatech.com/QTWorks/first/Animation.qml</file>
+    <file alias="assets/deadpool.png">/home/adin.n@acsiatech.com/QTWorks/first/assets/deadpool.png</file>
+    <file alias="assets/buttonImage.jpg">/home/adin.n@acsiatech.com/QTWorks/first/assets/buttonImage.jpg</file>
+  </qresource>
+</RCC>
+

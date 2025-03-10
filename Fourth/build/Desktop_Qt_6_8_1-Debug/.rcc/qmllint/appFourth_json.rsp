@@ -1,0 +1,12 @@
+--bare
+-I
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Fourth.qrc
+--resource
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appFourth_raw_qml_0.qrc
+/home/devuser/Fourth/Main.qml
+--json
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/appFourth_qmllint.json

@@ -1,0 +1,7 @@
+module QT_first
+typeinfo appQT_first.qmltypes
+prefer :/qt/qml/QT_first/
+Main 1.0 Main.qml
+Custom 1.0 Custom.qml
+Constants 1.0 Constants.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QT_charts">
+    <file alias="qmldir">/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/QT_charts/qmldir</file>
+  </qresource>
+</RCC>
+

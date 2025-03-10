@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/infortainment">/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/infortainment</file>
+
+  </qresource>
+</RCC>

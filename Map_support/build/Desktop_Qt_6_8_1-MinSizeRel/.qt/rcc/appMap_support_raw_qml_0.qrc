@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/qt/qml/Map_support/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/Main.qml</file>
+    <file alias="Controls.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/Controls.qml</file>
+    <file alias="SerachBox.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/SerachBox.qml</file>
+    <file alias="IconButton.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/IconButton.qml</file>
+    <file alias="LabelButton.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/LabelButton.qml</file>
+    <file alias="Assets/gps.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/gps.png</file>
+    <file alias="Assets/marker_blue.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/marker_blue.png</file>
+    <file alias="Assets/searchIcon.svg">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/searchIcon.svg</file>
+    <file alias="Assets/Search.svg">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/Search.svg</file>
+    <file alias="Assets/recenter.svg">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/recenter.svg</file>
+    <file alias="Assets/Plus.svg">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/Plus.svg</file>
+    <file alias="Assets/path.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/path.png</file>
+    <file alias="Assets/finishline.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/finishline.png</file>
+    <file alias="Assets/direction.svg">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/direction.svg</file>
+    <file alias="Assets/locationPin.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/locationPin.png</file>
+    <file alias="Assets/followme.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/followme.png</file>
+    <file alias="Assets/mapLabel.png">/home/adin.n@acsiatech.com/QTWorks/Map_support/Assets/mapLabel.png</file>
+  </qresource>
+</RCC>
+

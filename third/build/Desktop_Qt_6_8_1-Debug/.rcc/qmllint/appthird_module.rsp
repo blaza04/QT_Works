@@ -1,0 +1,10 @@
+-I
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_third.qrc
+--resource
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appthird_raw_qml_0.qrc
+--module
+third

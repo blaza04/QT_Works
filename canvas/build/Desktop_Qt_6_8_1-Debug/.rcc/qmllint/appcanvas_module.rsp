@@ -1,0 +1,10 @@
+-I
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_canvas.qrc
+--resource
+/home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appcanvas_raw_qml_0.qrc
+--module
+canvas

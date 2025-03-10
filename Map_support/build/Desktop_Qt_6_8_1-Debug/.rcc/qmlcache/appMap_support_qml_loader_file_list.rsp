@@ -1,0 +1,5 @@
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Map_support.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appMap_support_raw_qml_0.qrc
+/qt/qml/Map_support/Main.qml

@@ -1,0 +1,12 @@
+--bare
+-I
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/6.8.1/gcc_64/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_componets.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_componets_raw_qml_0.qrc
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/Main.qml
+--json
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/appQt_componets_qmllint.json

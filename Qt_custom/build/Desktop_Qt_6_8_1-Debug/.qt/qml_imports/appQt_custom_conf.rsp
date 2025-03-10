@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/Qt_custom
+-cmake-output
+-output-file
+/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQt_custom_conf.cmake
+-importPath
+/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug/Qt_custom
+-importPath
+/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_custom.qrc
+/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_custom_raw_qml_0.qrc

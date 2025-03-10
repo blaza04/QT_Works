@@ -1,0 +1,5 @@
+module QmlCanvas
+typeinfo appQmlCanvas.qmltypes
+prefer :/qt/qml/QmlCanvas/
+Main 1.0 Main.qml
+

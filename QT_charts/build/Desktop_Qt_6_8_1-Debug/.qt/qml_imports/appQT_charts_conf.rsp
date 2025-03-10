@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/QT_charts
+-cmake-output
+-output-file
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQT_charts_conf.cmake
+-importPath
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/QT_charts
+-importPath
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_QT_charts.qrc
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQT_charts_raw_qml_0.qrc

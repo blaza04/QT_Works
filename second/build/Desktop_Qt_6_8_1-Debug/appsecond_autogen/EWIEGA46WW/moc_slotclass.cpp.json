@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "slotclass",
+            "lineNumber": 4,
+            "object": true,
+            "qualifiedClassName": "slotclass",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "slotfun",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "slotclass.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Qt_menu_application">
+    <file alias="qmldir">/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/Qt_menu_application/qmldir</file>
+  </qresource>
+</RCC>
+

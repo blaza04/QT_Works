@@ -1,0 +1,5 @@
+module third
+typeinfo appthird.qmltypes
+prefer :/qt/qml/third/
+Main 1.0 Main.qml
+

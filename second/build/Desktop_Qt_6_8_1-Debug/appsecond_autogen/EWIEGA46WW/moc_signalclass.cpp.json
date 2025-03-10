@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "signalclass",
+            "lineNumber": 4,
+            "object": true,
+            "qualifiedClassName": "signalclass",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "signalfun",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "signalclass.h",
+    "outputRevision": 68
+}

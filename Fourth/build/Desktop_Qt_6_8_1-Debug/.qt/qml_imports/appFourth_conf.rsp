@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/Fourth
+-cmake-output
+-output-file
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appFourth_conf.cmake
+-importPath
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/Fourth
+-importPath
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Fourth.qrc
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appFourth_raw_qml_0.qrc

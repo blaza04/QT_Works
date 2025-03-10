@@ -1,0 +1,10 @@
+--resource
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_infortainment.qrc
+--resource
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc
+/qt/qml/infortainment/Main.qml
+/qt/qml/infortainment/Bottom.qml
+/qt/qml/infortainment/Right.qml
+/qt/qml/infortainment/Left.qml
+/qt/qml/infortainment/Controllers.qml
+/qt/qml/infortainment/AudioControl.qml

@@ -1,0 +1,17 @@
+--bare
+-I
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_infortainment.qrc
+--resource
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc
+/home/devuser/infortainment/Main.qml
+/home/devuser/infortainment/Bottom.qml
+/home/devuser/infortainment/Right.qml
+/home/devuser/infortainment/Left.qml
+/home/devuser/infortainment/Controllers.qml
+/home/devuser/infortainment/AudioControl.qml
+--json
+/home/devuser/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_qmllint.json

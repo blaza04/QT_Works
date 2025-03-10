@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appFourth_FILE /home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/appFourth)
+set(__QT_DEPLOY_TARGET_appFourth_TYPE EXECUTABLE)

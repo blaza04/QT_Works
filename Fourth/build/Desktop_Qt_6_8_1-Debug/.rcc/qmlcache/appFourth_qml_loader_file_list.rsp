@@ -1,0 +1,5 @@
+--resource
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Fourth.qrc
+--resource
+/home/devuser/Fourth/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appFourth_raw_qml_0.qrc
+/qt/qml/Fourth/Main.qml

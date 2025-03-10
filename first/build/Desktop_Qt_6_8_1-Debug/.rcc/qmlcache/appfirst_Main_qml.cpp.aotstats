@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 33
+                    }
+                ],
+                "filepath": "/home/devuser/first/Main.qml"
+            }
+        ],
+        "moduleId": "first(appfirst)"
+    }
+]

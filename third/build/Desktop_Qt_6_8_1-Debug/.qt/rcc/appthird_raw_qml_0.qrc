@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/third/">
+    <file alias="Main.qml">/home/devuser/third/Main.qml</file>
+  </qresource>
+</RCC>
+

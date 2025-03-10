@@ -1,0 +1,14 @@
+-rootPath
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio
+-cmake-output
+-output-file
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQt_radio_conf.cmake
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug/Qt_radio
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/6.8.1/gcc_64/qml
+-qrcFiles
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_radio.qrc
+/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_radio_raw_qml_0.qrc

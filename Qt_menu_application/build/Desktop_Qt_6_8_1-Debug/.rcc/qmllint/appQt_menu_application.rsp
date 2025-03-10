@@ -1,0 +1,10 @@
+--bare
+-I
+/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_menu_application.qrc
+--resource
+/home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_menu_application_raw_qml_0.qrc
+/home/devuser/Qt_menu_application/Main.qml

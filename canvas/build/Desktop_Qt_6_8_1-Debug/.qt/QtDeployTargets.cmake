@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appcanvas_FILE /home/devuser/canvas/build/Desktop_Qt_6_8_1-Debug/appcanvas)
+set(__QT_DEPLOY_TARGET_appcanvas_TYPE EXECUTABLE)

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Qt_componets">/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/Qt_componets</file>
+
+  </qresource>
+</RCC>

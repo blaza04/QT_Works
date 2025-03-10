@@ -1,0 +1,10 @@
+module infortainment
+typeinfo appinfortainment.qmltypes
+prefer :/qt/qml/infortainment/
+Main 1.0 Main.qml
+Bottom 1.0 Bottom.qml
+Right 1.0 Right.qml
+Left 1.0 Left.qml
+Controllers 1.0 Controllers.qml
+AudioControl 1.0 AudioControl.qml
+

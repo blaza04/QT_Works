@@ -1,0 +1,10 @@
+module first
+typeinfo appfirst.qmltypes
+prefer :/qt/qml/first/
+Main 1.0 Main.qml
+Sample 1.0 Sample.qml
+Listview 1.0 Listview.qml
+Button1 1.0 Button1.qml
+States 1.0 States.qml
+Animation 1.0 Animation.qml
+

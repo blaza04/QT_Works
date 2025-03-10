@@ -1,0 +1,15 @@
+--bare
+-I
+/home/adin.n@acsiatech.com/QTWorks/first/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/6.8.1/gcc_64/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/first/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_first.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/first/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appfirst_raw_qml_0.qrc
+/home/adin.n@acsiatech.com/QTWorks/first/Main.qml
+/home/adin.n@acsiatech.com/QTWorks/first/Sample.qml
+/home/adin.n@acsiatech.com/QTWorks/first/Listview.qml
+/home/adin.n@acsiatech.com/QTWorks/first/Button1.qml
+/home/adin.n@acsiatech.com/QTWorks/first/States.qml
+/home/adin.n@acsiatech.com/QTWorks/first/Animation.qml

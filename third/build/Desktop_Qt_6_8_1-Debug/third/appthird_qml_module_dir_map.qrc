@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/third">/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/third</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appQt_menu_application_FILE /home/devuser/Qt_menu_application/build/Desktop_Qt_6_8_1-Debug/appQt_menu_application)
+set(__QT_DEPLOY_TARGET_appQt_menu_application_TYPE EXECUTABLE)

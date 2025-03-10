@@ -1,0 +1,12 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                ],
+                "filepath": "/home/devuser/second/Main.qml"
+            }
+        ],
+        "moduleId": "second(appsecond)"
+    }
+]

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Discogs/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/Discogs/Main.qml</file>
+  </qresource>
+</RCC>
+

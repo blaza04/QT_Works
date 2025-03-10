@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appQt_componets_FILE /home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/appQt_componets)
+set(__QT_DEPLOY_TARGET_appQt_componets_TYPE EXECUTABLE)

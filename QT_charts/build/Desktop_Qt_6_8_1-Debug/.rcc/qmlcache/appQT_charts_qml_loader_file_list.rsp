@@ -1,0 +1,5 @@
+--resource
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_QT_charts.qrc
+--resource
+/home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQT_charts_raw_qml_0.qrc
+/qt/qml/QT_charts/Main.qml

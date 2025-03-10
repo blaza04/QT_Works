@@ -1,0 +1,5 @@
+module Qt_radio
+typeinfo appQt_radio.qmltypes
+prefer :/qt/qml/Qt_radio/
+Main 1.0 Main.qml
+

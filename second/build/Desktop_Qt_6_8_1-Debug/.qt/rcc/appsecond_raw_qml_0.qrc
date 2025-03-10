@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/second/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/second/Main.qml</file>
+    <file alias="Animate.qml">/home/adin.n@acsiatech.com/QTWorks/second/Animate.qml</file>
+    <file alias="Animate1.qml">/home/adin.n@acsiatech.com/QTWorks/second/Animate1.qml</file>
+    <file alias="assets/200.jpg">/home/adin.n@acsiatech.com/QTWorks/second/assets/200.jpg</file>
+  </qresource>
+</RCC>
+

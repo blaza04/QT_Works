@@ -1,0 +1,5 @@
+module QT_charts
+typeinfo appQT_charts.qmltypes
+prefer :/qt/qml/QT_charts/
+Main 1.0 Main.qml
+

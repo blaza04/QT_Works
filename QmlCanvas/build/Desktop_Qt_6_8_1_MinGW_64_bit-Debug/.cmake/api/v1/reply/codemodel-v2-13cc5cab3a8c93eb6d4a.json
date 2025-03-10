@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-43aa2aae48b3ff32239e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QmlCanvas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-e4368d0578ac7645d194.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1d4c2abf87901b4aef48.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-31c2334dbb3cf2a98af3.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-43640fc64d3c6d7a193c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-84f71d3a84726cf8f507.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas-Debug-6bd10e03a3bc7e862960.json",
+					"name" : "appQmlCanvas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_autogen-Debug-467fdbf45d1914d5088e.json",
+					"name" : "appQmlCanvas_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_autogen_timestamp_deps-Debug-59c44bf3e8bbb64c473c.json",
+					"name" : "appQmlCanvas_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_qmlimportscan-Debug-d2b88a4afee8ee24c3c9.json",
+					"name" : "appQmlCanvas_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_qmllint-Debug-3f0b590d9c37c6a56b56.json",
+					"name" : "appQmlCanvas_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_qmllint_json-Debug-8e672058fea6e9cecebf.json",
+					"name" : "appQmlCanvas_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_qmllint_module-Debug-f2cd8658025618158d77.json",
+					"name" : "appQmlCanvas_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_qmltyperegistration-Debug-c63c965c5752aa086651.json",
+					"name" : "appQmlCanvas_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQmlCanvas_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQmlCanvas_tooling-Debug-413437de0cee154bf5ab.json",
+					"name" : "appQmlCanvas_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appQmlCanvas_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appQmlCanvas_aotstats_target-Debug-f8262518c6a6b915d858.json",
+					"name" : "module_appQmlCanvas_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT_POC/QmlCanvas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "D:/QT_POC/QmlCanvas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

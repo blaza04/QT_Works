@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/first">
+    <file alias="qmldir">/home/adin.n@acsiatech.com/QTWorks/first/build/Desktop_Qt_6_8_1-Debug/first/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+/home/adin.n@acsiatech.com/QTWorks/QT_first
+-cmake-output
+-output-file
+/home/adin.n@acsiatech.com/QTWorks/QT_first/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQT_first_build.cmake
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/QT_first/build/Desktop_Qt_6_8_1-Debug/QT_first
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/QT_first/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/6.8.1/gcc_64/qml
+-qrcFiles
+/home/adin.n@acsiatech.com/QTWorks/QT_first/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_QT_first.qrc
+/home/adin.n@acsiatech.com/QTWorks/QT_first/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQT_first_raw_qml_0.qrc

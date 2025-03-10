@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Map_support/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/Map_support/Main.qml</file>
+  </qresource>
+</RCC>
+

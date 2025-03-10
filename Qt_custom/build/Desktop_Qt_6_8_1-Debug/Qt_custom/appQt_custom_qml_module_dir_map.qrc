@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Qt_custom">/home/devuser/Qt_custom/build/Desktop_Qt_6_8_1-Debug/Qt_custom</file>
+
+  </qresource>
+</RCC>

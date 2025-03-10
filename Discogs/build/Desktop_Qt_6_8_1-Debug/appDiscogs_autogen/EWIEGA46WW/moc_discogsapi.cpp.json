@@ -1,0 +1,66 @@
+{
+    "classes": [
+        {
+            "className": "DiscogsApi",
+            "lineNumber": 11,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "language",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "fetchReleases",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "DiscogsApi",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "releases",
+                            "type": "QJsonArray"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "releasesFetched",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "error",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "errorOccurred",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 2,
+                    "name": "onReplyFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "discogsapi.h",
+    "outputRevision": 68
+}

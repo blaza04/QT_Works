@@ -1,0 +1,14 @@
+-rootPath
+/home/adin.n@acsiatech.com/QTWorks/Map_support
+-cmake-output
+-output-file
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/qml_imports/appMap_support_build.cmake
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/Map_support
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel
+-importPath
+/home/6.8.1/gcc_64/qml
+-qrcFiles
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/qmake_Map_support.qrc
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/appMap_support_raw_qml_0.qrc

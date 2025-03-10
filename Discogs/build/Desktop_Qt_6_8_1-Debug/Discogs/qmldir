@@ -1,0 +1,5 @@
+module Discogs
+typeinfo appDiscogs.qmltypes
+prefer :/qt/qml/Discogs/
+Main 1.0 Main.qml
+

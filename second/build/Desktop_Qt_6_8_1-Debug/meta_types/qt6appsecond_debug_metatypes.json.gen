@@ -1,0 +1,245 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Handler",
+                "lineNumber": 6,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 0,
+                        "name": "button",
+                        "notify": "buttonChanged",
+                        "read": "button",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setButton"
+                    }
+                ],
+                "qualifiedClassName": "Handler",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "buttonChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newButton",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "setButton",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Handler.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Signalclass",
+                "lineNumber": 5,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 0,
+                        "name": "Button",
+                        "notify": "ButtonChanged",
+                        "read": "Button",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setbutton"
+                    }
+                ],
+                "qualifiedClassName": "Signalclass",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "signalfun",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "newsignal",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "ButtonChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newButton",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 3,
+                        "name": "setbutton",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Signalclass.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Slotclass",
+                "lineNumber": 4,
+                "object": true,
+                "qualifiedClassName": "Slotclass",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "sig",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "slotfun",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "newsignal",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "name": "my",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "name": "sigslot",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Slotclass.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "System",
+                "lineNumber": 7,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "print",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 0,
+                        "name": "button",
+                        "notify": "buttonChanged",
+                        "read": "button",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setButton"
+                    }
+                ],
+                "qualifiedClassName": "System",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "buttonChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newButton",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "setButton",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "System.h",
+        "outputRevision": 68
+    }
+]

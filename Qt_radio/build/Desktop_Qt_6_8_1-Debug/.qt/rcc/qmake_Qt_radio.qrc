@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Qt_radio">
+    <file alias="qmldir">/home/adin.n@acsiatech.com/QTWorks/Qt_radio/build/Desktop_Qt_6_8_1-Debug/Qt_radio/qmldir</file>
+  </qresource>
+</RCC>
+

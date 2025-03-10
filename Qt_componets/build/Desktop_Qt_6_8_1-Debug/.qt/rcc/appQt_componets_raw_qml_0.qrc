@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Qt_componets/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/Qt_componets/Main.qml</file>
+  </qresource>
+</RCC>
+

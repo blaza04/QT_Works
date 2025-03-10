@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/third
+-cmake-output
+-output-file
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appthird_conf.cmake
+-importPath
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/third
+-importPath
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_third.qrc
+/home/devuser/third/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appthird_raw_qml_0.qrc

@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/qt/qml/infortainment/">
+    <file alias="Main.qml">/home/devuser/infortainment/Main.qml</file>
+    <file alias="Bottom.qml">/home/devuser/infortainment/Bottom.qml</file>
+    <file alias="Right.qml">/home/devuser/infortainment/Right.qml</file>
+    <file alias="Left.qml">/home/devuser/infortainment/Left.qml</file>
+    <file alias="Controllers.qml">/home/devuser/infortainment/Controllers.qml</file>
+    <file alias="AudioControl.qml">/home/devuser/infortainment/AudioControl.qml</file>
+    <file alias="Assets/lock.png">/home/devuser/infortainment/Assets/lock.png</file>
+    <file alias="Assets/car.png">/home/devuser/infortainment/Assets/car.png</file>
+    <file alias="Assets/unlockk.png">/home/devuser/infortainment/Assets/unlockk.png</file>
+    <file alias="Assets/caricon.png">/home/devuser/infortainment/Assets/caricon.png</file>
+    <file alias="Assets/un.png">/home/devuser/infortainment/Assets/un.png</file>
+    <file alias="Assets/caric.png">/home/devuser/infortainment/Assets/caric.png</file>
+    <file alias="Assets/caricc.png">/home/devuser/infortainment/Assets/caricc.png</file>
+    <file alias="Assets/person.png">/home/devuser/infortainment/Assets/person.png</file>
+    <file alias="Assets/search.png">/home/devuser/infortainment/Assets/search.png</file>
+    <file alias="Assets/vollow.png">/home/devuser/infortainment/Assets/vollow.png</file>
+    <file alias="Assets/volmid.png">/home/devuser/infortainment/Assets/volmid.png</file>
+    <file alias="Assets/mute.png">/home/devuser/infortainment/Assets/mute.png</file>
+    <file alias="Assets/newcar.jpg">/home/devuser/infortainment/Assets/newcar.jpg</file>
+  </qresource>
+</RCC>
+

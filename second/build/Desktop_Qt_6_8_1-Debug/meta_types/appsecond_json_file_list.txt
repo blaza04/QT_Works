@@ -1,0 +1,4 @@
+/home/devuser/second/build/Desktop_Qt_6_8_1-Debug/appsecond_autogen/include/../EWIEGA46WW/moc_Handler.cpp.json
+/home/devuser/second/build/Desktop_Qt_6_8_1-Debug/appsecond_autogen/include/../EWIEGA46WW/moc_Signalclass.cpp.json
+/home/devuser/second/build/Desktop_Qt_6_8_1-Debug/appsecond_autogen/include/../EWIEGA46WW/moc_Slotclass.cpp.json
+/home/devuser/second/build/Desktop_Qt_6_8_1-Debug/appsecond_autogen/include/../EWIEGA46WW/moc_System.cpp.json

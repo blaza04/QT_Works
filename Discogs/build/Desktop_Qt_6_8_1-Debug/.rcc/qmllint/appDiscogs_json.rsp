@@ -1,0 +1,12 @@
+--bare
+-I
+/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/6.8.1/gcc_64/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Discogs.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appDiscogs_raw_qml_0.qrc
+/home/adin.n@acsiatech.com/QTWorks/Discogs/Main.qml
+--json
+/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug/appDiscogs_qmllint.json

@@ -1,0 +1,14 @@
+--bare
+-I
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel
+-I
+/home/6.8.1/gcc_64/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/qmake_Map_support.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/appMap_support_raw_qml_0.qrc
+/home/adin.n@acsiatech.com/QTWorks/Map_support/Main.qml
+/home/adin.n@acsiatech.com/QTWorks/Map_support/Controls.qml
+/home/adin.n@acsiatech.com/QTWorks/Map_support/SerachBox.qml
+/home/adin.n@acsiatech.com/QTWorks/Map_support/IconButton.qml
+/home/adin.n@acsiatech.com/QTWorks/Map_support/LabelButton.qml

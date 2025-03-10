@@ -1,0 +1,12 @@
+--bare
+-I
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/devuser/Qt/6.8.1/gcc_64/qml
+--resource
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_ModelView.qrc
+--resource
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_ModelView_raw_qml_0.qrc
+/home/devuser/Qt_ModelView/Main.qml
+--json
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/appQt_ModelView_qmllint.json

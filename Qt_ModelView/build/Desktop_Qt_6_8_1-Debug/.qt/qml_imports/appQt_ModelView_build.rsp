@@ -1,0 +1,14 @@
+-rootPath
+/home/devuser/Qt_ModelView
+-cmake-output
+-output-file
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQt_ModelView_build.cmake
+-importPath
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/Qt_ModelView
+-importPath
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/devuser/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_ModelView.qrc
+/home/devuser/Qt_ModelView/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_ModelView_raw_qml_0.qrc

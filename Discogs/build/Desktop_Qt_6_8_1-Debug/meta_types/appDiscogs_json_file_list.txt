@@ -1,0 +1,1 @@
+/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug/appDiscogs_autogen/include/../EWIEGA46WW/moc_discogsapi.cpp.json

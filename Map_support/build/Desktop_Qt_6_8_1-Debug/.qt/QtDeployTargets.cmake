@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appMap_support_FILE /home/adin.n@acsiatech.com/QTWorks/Map_support/build/Desktop_Qt_6_8_1-Debug/appMap_support)
+set(__QT_DEPLOY_TARGET_appMap_support_TYPE EXECUTABLE)

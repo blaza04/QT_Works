@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/second">/home/adin.n@acsiatech.com/QTWorks/second/build/Desktop_Qt_6_8_1-Debug/second</file>
+
+  </qresource>
+</RCC>

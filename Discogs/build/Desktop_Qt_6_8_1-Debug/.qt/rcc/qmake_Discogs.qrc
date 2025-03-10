@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Discogs">
+    <file alias="qmldir">/home/adin.n@acsiatech.com/QTWorks/Discogs/build/Desktop_Qt_6_8_1-Debug/Discogs/qmldir</file>
+  </qresource>
+</RCC>
+

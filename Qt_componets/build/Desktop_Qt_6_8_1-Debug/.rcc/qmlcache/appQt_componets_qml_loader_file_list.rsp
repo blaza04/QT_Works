@@ -1,0 +1,5 @@
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Qt_componets.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/Qt_componets/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQt_componets_raw_qml_0.qrc
+/qt/qml/Qt_componets/Main.qml

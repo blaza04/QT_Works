@@ -1,0 +1,52 @@
+{
+    "classes": [
+        {
+            "className": "Slotclass",
+            "lineNumber": 4,
+            "object": true,
+            "qualifiedClassName": "Slotclass",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "sig",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "slotfun",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "newsignal",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "my",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "sigslot",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Slotclass.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,5 @@
+module Qt_custom
+typeinfo appQt_custom.qmltypes
+prefer :/qt/qml/Qt_custom/
+Main 1.0 Main.qml
+

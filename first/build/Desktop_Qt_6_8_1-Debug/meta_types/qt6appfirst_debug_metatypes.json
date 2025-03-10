@@ -1,0 +1,59 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Clicker",
+                "lineNumber": 6,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 0,
+                        "name": "button",
+                        "notify": "buttonChanged",
+                        "read": "button",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false,
+                        "write": "setButton"
+                    }
+                ],
+                "qualifiedClassName": "Clicker",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "buttonChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newButton",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "setButton",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "clicker.h",
+        "outputRevision": 68
+    }
+]

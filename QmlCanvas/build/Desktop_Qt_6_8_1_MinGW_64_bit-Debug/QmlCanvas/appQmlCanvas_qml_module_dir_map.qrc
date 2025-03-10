@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/QmlCanvas">D:/QT_POC/QmlCanvas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QmlCanvas</file>
+
+  </qresource>
+</RCC>

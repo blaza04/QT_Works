@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="/qt/qml/QT_first/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/QT_first/Main.qml</file>
+    <file alias="Custom.qml">/home/adin.n@acsiatech.com/QTWorks/QT_first/Custom.qml</file>
+    <file alias="Constants.qml">/home/adin.n@acsiatech.com/QTWorks/QT_first/Constants.qml</file>
+    <file alias="Assets/launcherDesign_2_background.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/launcherDesign_2_background.png</file>
+    <file alias="Assets/playBack.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/playBack.png</file>
+    <file alias="Assets/playNext.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/playNext.png</file>
+    <file alias="Assets/musicPause.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPause.png</file>
+    <file alias="Assets/musicPlay.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay.png</file>
+    <file alias="Assets/musicAdd_blueShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicAdd_blueShade.png</file>
+    <file alias="Assets/musicAdd_brownShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicAdd_brownShade.png</file>
+    <file alias="Assets/musicAdd_greenShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicAdd_greenShade.png</file>
+    <file alias="Assets/musicAdd_lightShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicAdd_lightShade.png</file>
+    <file alias="Assets/musicAdd_redShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicAdd_redShade.png</file>
+    <file alias="Assets/listBackgroud_green.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackgroud_green.png</file>
+    <file alias="Assets/listBackground_blue.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_blue.png</file>
+    <file alias="Assets/listBackground_brown.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_brown.png</file>
+    <file alias="Assets/listBackground_light.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_light.png</file>
+    <file alias="Assets/listBackground_red.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_red.png</file>
+    <file alias="Assets/musicStop_blueShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicStop_blueShade.png</file>
+    <file alias="Assets/musicStop_brownShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicStop_brownShade.png</file>
+    <file alias="Assets/musicStop_greenShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicStop_greenShade.png</file>
+    <file alias="Assets/musicStop_lightShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicStop_lightShade.png</file>
+    <file alias="Assets/musicStop_redShade.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicStop_redShade.png</file>
+    <file alias="Assets/musicPlay_blue.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay_blue.png</file>
+    <file alias="Assets/musicPlay_brown.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay_brown.png</file>
+    <file alias="Assets/musicPlay_green.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay_green.png</file>
+    <file alias="Assets/musicPlay_light.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay_light.png</file>
+    <file alias="Assets/musicPlay_red.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/musicPlay_red.png</file>
+    <file alias="Assets/listBackgroud_green.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackgroud_green.png</file>
+    <file alias="Assets/listBackground_blue.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_blue.png</file>
+    <file alias="Assets/listBackground_brown.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_brown.png</file>
+    <file alias="Assets/listBackground_light.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_light.png</file>
+    <file alias="Assets/listBackground_red.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/listBackground_red.png</file>
+    <file alias="Assets/mainBackground_GB.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/mainBackground_GB.png</file>
+    <file alias="Assets/mainBackground_ML.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/mainBackground_ML.png</file>
+    <file alias="Assets/mainBackground_NG.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/mainBackground_NG.png</file>
+    <file alias="Assets/mainBackground_RR.png">/home/adin.n@acsiatech.com/QTWorks/QT_first/Assets/mainBackground_RR.png</file>
+  </qresource>
+</RCC>
+

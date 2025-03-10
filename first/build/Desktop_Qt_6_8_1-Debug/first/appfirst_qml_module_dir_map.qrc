@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/first">/home/adin.n@acsiatech.com/QTWorks/first/build/Desktop_Qt_6_8_1-Debug/first</file>
+
+  </qresource>
+</RCC>

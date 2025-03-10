@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "myclass",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "myFunction",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "myclass",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "myclass.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,5 @@
+module Qt_componets
+typeinfo appQt_componets.qmltypes
+prefer :/qt/qml/Qt_componets/
+Main 1.0 Main.qml
+

@@ -1,0 +1,7 @@
+module second
+typeinfo appsecond.qmltypes
+prefer :/qt/qml/second/
+Main 1.0 Main.qml
+Animate 1.0 Animate.qml
+Animate1 1.0 Animate1.qml
+

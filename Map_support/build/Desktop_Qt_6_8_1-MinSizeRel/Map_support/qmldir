@@ -1,0 +1,9 @@
+module Map_support
+typeinfo appMap_support.qmltypes
+prefer :/qt/qml/Map_support/
+Main 1.0 Main.qml
+Controls 1.0 Controls.qml
+SerachBox 1.0 SerachBox.qml
+IconButton 1.0 IconButton.qml
+LabelButton 1.0 LabelButton.qml
+

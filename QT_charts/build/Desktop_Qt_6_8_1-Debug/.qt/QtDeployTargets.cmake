@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appQT_charts_FILE /home/devuser/QT_charts/build/Desktop_Qt_6_8_1-Debug/appQT_charts)
+set(__QT_DEPLOY_TARGET_appQT_charts_TYPE EXECUTABLE)
